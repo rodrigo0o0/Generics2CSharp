@@ -1,0 +1,6 @@
+C:\Users\sande\source\repos\Generics2CSharp\Generics2CSharp\obj\Debug\Generics2CSharp.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\Generics2CSharp\Generics2CSharp\obj\Debug\Generics2CSharp.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Generics2CSharp\Generics2CSharp\bin\Debug\Generics2CSharp.exe
+C:\Users\sande\source\repos\Generics2CSharp\Generics2CSharp\bin\Debug\Generics2CSharp.pdb
+C:\Users\sande\source\repos\Generics2CSharp\Generics2CSharp\obj\Debug\Generics2CSharp.exe
+C:\Users\sande\source\repos\Generics2CSharp\Generics2CSharp\obj\Debug\Generics2CSharp.pdb
